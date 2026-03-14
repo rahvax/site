@@ -1,49 +1,97 @@
+<!--
+    Site inicial para apresentação
+    Ideia básica em HTML/CSS
+
+    Inspirado em um stylesheet gerado
+    pela minha rede neural, Shaula
+
+    Feito por @rahvax
+-->
 <!DOCTYPE html>
 <html lang="pt-BR">
   <head>
-    <!-- Basic meta tags -->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="clang, security, cybersec, hacking, pentest, hacker">
-    <meta name="author" content="Gabriel Caelestis">
-    <meta name="description" content="Ethical Hacker and C/C++ Software Engineer">
-    <!-- Embed meta tags -->
-    <meta property="og:title" content="About Me - Gabriel">
-    <meta property="og:description" content="I am a senior ethical hacker and experienced C/C++ developer. I work in the market with audits, pentest and related projects. Contact me via email or Discord.">
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="https://www.caelestis.one/">
-    <meta property="og:image" content="imgs/profile.jpg">
-    <meta property="og:image:type" content="image/png">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-    <!-- Styles and title-->
-    <title>Caelestis - Perfil</title>
+    <!-- Metas -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="keywords" content="clang, offsec, developer, ai, aiengineer, cdev" />
+    <meta name="author" content="Gabriel Caelestis" />
+    <meta name="description" content="Estudante de Segurança Ofensiva, programador C e desenvolvedor de IA." />
+    <!-- links -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="styles/main.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="stylesheet" href="https://www.nerdfonts.com/assets/css/webfont.css">
+    
+    <title>Gabriel Caelestis — Perfil Profissional</title>
   </head>
   <body>
-    <div class="container">
-        <div class="profile-frame">
-            <img src="imgs/profile.jpg" alt="Profile Icon">
+    <main class="wrap">
+      <aside class="card" aria-label="Informações pessoais">
+	<div class="avatar" role="img">
+          <img src="imgs/profile.jpg" alt="Foto de perfil">
         </div>
-        <h1>Site em Construção</h1>
-        <div class="icons">
-	  <a><i class="nf nf-md-arch">&#160</i></a>
-	  <a><i class="nf nf-custom-c">&#160</i></a>
-	  <a><i class="nf nf-dev-python">&#160</i></a>
-	  <a><i class="nf nf-custom-asm">&#160</i></a>
-	  <a><i class="nf nf-custom-emacs">&#160</i></a>
-	  <a><i class="nf nf-dev-vim">&#160</i></a>
-	  <a><i class="nf nf-dev-git">&#160</i></a>
-	  <a><i class="nf nf-cod-terminal_bash">&#160</i></a>
+
+	<!-- Título -->
+	<div class="name">Gabriel Caelestis</div>
+        <div class="title">Security Researcher - AI Engineer - Developer</div>
+
+	<!-- Ícones de redes -->
+	<div class="contact" aria-hidden="false">
+          <a href="mailto:gabriel@caelestis.one" title="Enviar e‑mail"><i class="fa fa-envelope"></i>&nbsp;Email</a>
+          <a href="https://github.com/rahvax" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-github"></i>&nbsp;GitHub</a>
+          <a href="https://twitter.com/rahvax" target="_blank" rel="noopener" title="Twitter"><i class="fab fa-twitter"></i>&nbsp;Twitter</a>
         </div>
-    </div>
-    <footer>
-        <a href="https://discord.com/users/314858301726785546" target="_blank" class="fab fa-discord"></a>
-        <a href="https://twitter.com/@rahvax" target="_blank" class="fab fa-twitter"></a>
-        <a href="https://github.com/rahvax" target="_blank" class="fab fa-github"></a>
-        <a href="mailto:gabriel@caelestis.one" class="fa fa-envelope"></a>
-    </footer>
+
+	<!-- Habilidades -->
+	<div class="skills">
+          <h3>Competências</h3>
+          <div class="skill-list">
+            <div class="skill">C/C++</div>
+            <div class="skill">Pentest</div>
+            <div class="skill">Python</div>
+            <div class="skill">Linux</div>
+	    <div class="skill">Embarcados</div>
+          </div>
+        </div>
+	
+      </aside>
+      <section class="main">
+        <div class="hero">
+          <div class="about">
+            <h2>Sobre</h2>
+            <p>
+	      Sou um desenvolvedor em C e Python com grandes objetivos de entrar para o mercado de desenvolvimento de Inteligências Artificiais, e estudante de segurança ofensiva, onde tenho experiência em realizar auditorias para ambientes corporativos. Atualmente não possuo um portfólio, mas estou em busca de desenvolver projetos para iniciar o mesmo.
+            </p>
+
+            <div class="stats">
+              <div class="stat"><b>+1</b><span style="color:var(--muted)">Projetos públicos</span></div>
+              <div class="stat"><b>6 anos</b><span style="color:var(--muted)">Experiência</span></div>
+              <div class="stat"><b>PT‑BR</b><span style="color:var(--muted)">Idioma</span></div>
+            </div>
+          </div>
+
+          <div style="min-width:220px;display:flex;flex-direction:column;gap:10px;align-items:flex-end;">
+            <div class="actions">
+              <a class="btn btn-primary" href="curriculo.pdf" download>Baixar CV</a>
+              <a class="btn btn-ghost" href="mailto:gabriel@caelestis.one">Contato</a>
+            </div>
+            <div style="color:var(--muted);font-size:13px;margin-top:6px;text-align:right">Me envie uma solcitação</div>
+          </div>
+        </div>
+
+        <div>
+          <h3 style="margin:8px 0 12px 0">Projetos recentes</h3>
+          <div class="projects">
+            <article class="project">
+              <h4><a href="https://github.com/rahvax/omega" target="_blank">Omega</a></h4>
+              <p>Sistema para gerar hashs personalizadas por tags. Sistema por CLI.</p>
+            </article>
+          </div>
+        </div>
+
+        <footer>
+          <div>Links: <a href="https://discord.com/users/314858301726785546" target="_blank" rel="noopener">Discord</a> | <a href="https://twitter.com/rahvax" target="_blank" rel="noopener">Twitter</a> | <a href="https://github.com/rahvax" target="_blank" rel="noopener">GitHub</a></div>
+        </footer>
+      </section>
+    </main>
   </body>
 </html>
