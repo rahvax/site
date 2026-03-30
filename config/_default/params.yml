@@ -1,0 +1,88 @@
+author: Gabriel Caelestis
+email: gabriel@caelestis.one
+description: OffSec, C/C++
+
+subtitle:
+  typing:
+    enable: true
+    strings:
+      - Ethical Hacker
+      - AI Engineer
+      - C/C++ developer
+      - Sumerian enthusiast
+    typeSpeed: 100              # 打字速度（毫秒/字符） 
+    backSpeed: 50               # 删除速度（毫秒/字符）
+    backDelay: 2000             # 打完一句话后，等待时间
+    startDelay: 300             # 页面加载后，等待时间
+    loop: true                  # 是否循环播放
+    shuffle: true              # 是否随机输出句子
+    showCursor: true            # 是否显示闪烁的字符
+    cursorChar: "|"             # 字符
+    smartBackspace: false       # 智能退格，只删除不同的部分
+
+preloader:
+  enable: true
+  text:
+    zh-CN: 少女祈祷中...
+    zh-TW: 少女祈禱中...
+    en: Carregando...
+    ja: 少女祈祷中...
+  icon: images/loading.png
+  rotate: false
+
+banner: "images/babylon.jpg"
+
+sidebar:
+  position: left # left | right | false
+  menu: false # whether to show the sidebar menu button, ignored on mobile devices
+  article:
+    show_common: true # whether to show common sidebar on article pages, ignored on mobile devices
+
+social:
+  - name: github
+    url: https://github.com/rahvax
+  - name: discord
+    url: https://discord.com/users/314858301726785546
+  - name: twitter
+    url: https://www.x.com/rahvax
+
+footer:
+  since: 2026 # The starting year displayed in the copyright information (e.g., 2020-current year)
+  powered: false # Whether to display copyright information
+  count: false # Whether to display word count and reading time statistics
+  busuanzi: false # Whether to enable Busuanzi visitor counting statistics
+
+rss:
+  limit: 10 # The number of recent articles to be output, write -1 to output all
+  showFullContent: false # output full content or description
+  showCopyright: false # If true, add copyright to the end of article.
+
+reimu_cursor: false
+
+outdate:
+  enable: true
+  daysAgo: 180 # How many days old before an article is considered outdated
+  message:
+    en: Este artigo foi atualizado pela última vez em {time}. Considere a data ao ler o mesmo.
+    zh-CN: 本文最后更新于 {time}，请注意文中内容可能已不适用。
+    zh-TW: 本文最後更新於 {time}，請注意文中內容可能已不適用。
+    ja: この記事は最終更新日：{time}。記載内容が現在有効でない可能性がありますのでご注意ください。
+
+triangle_badge:
+  enable: true
+  icon: github 
+  link: https://github.com/rahvax/site
+
+menu:
+  - name: home
+    url: /
+    icon: images/button.png
+  - name: archives
+    url: /archives
+    icon: images/button.png # You can fill in a hexadecimal number to customize the icon. If set to false, no icon will be displayed.
+  - name: about
+    url: /about
+    icon: images/button.png
+  - name: friend
+    url: /friend
+    icon: images/button.png
