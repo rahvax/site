@@ -1,6 +1,6 @@
 author: Gabriel Caelestis
 email: gabriel@caelestis.one
-description: OffSec, C/C++
+description: Profissional de Segurança Ofensiva e programador C/C++ com quinze anos de experiência prática.
 
 subtitle:
   typing:
@@ -10,15 +10,15 @@ subtitle:
       - AI Engineer
       - C/C++ developer
       - Sumerian enthusiast
-    typeSpeed: 100              # 打字速度（毫秒/字符） 
-    backSpeed: 50               # 删除速度（毫秒/字符）
-    backDelay: 2000             # 打完一句话后，等待时间
-    startDelay: 300             # 页面加载后，等待时间
-    loop: true                  # 是否循环播放
-    shuffle: true              # 是否随机输出句子
-    showCursor: true            # 是否显示闪烁的字符
-    cursorChar: "|"             # 字符
-    smartBackspace: false       # 智能退格，只删除不同的部分
+    typeSpeed: 100               
+    backSpeed: 50               
+    backDelay: 2000            
+    startDelay: 300           
+    loop: true                   
+    shuffle: true              
+    showCursor: true            
+    cursorChar: "|"             
+    smartBackspace: false      
 
 preloader:
   enable: true
@@ -28,9 +28,10 @@ preloader:
     en: Carregando...
     ja: 少女祈祷中...
   icon: images/loading.png
-  rotate: false
+  rotate: true
 
 banner: "images/babylon.jpg"
+excerpt_link: Read More
 
 sidebar:
   position: left # left | right | false
@@ -38,13 +39,39 @@ sidebar:
   article:
     show_common: true # whether to show common sidebar on article pages, ignored on mobile devices
 
+show_update_time: true
+
+clipboard:
+  success: 
+    en: Copy successfully (*^▽^*)
+    zh-CN: 复制成功 (*^▽^*)
+    zh-TW: 複製成功 (*^▽^*)
+    ja: コピー成功 (*^▽^*)
+    pt-BR: Copiado com sucesso (*^▽^*)
+  fail: 
+    en: Copy failed (ﾟ⊿ﾟ)ﾂ
+    zh-CN: 复制失败 (ﾟ⊿ﾟ)ﾂ
+    zh-TW: 複製失敗 (ﾟ⊿ﾟ)ﾂ
+    ja: コピー失敗 (ﾟ⊿ﾟ)ﾂ
+    pt-BR: Falha ao copiar (ﾟ⊿ﾟ)ﾂ
+  copyright:
+    enable: false
+    count: 50 # The number of characters when the copyright is displayed
+    license_type: by-nc-sa # https://creativecommons.org/licenses
+    
 social:
   - name: github
     url: https://github.com/rahvax
-  - name: discord
-    url: https://discord.com/users/314858301726785546
   - name: twitter
     url: https://www.x.com/rahvax
+  - name: email
+    url: mailto:gabriel@caelestis.one
+  - name: youtube
+    url: https://www.youtube.com/@GabrielCaelestis
+  - name: telegram
+    url: https://www.t.me/rahvax
+  - name: steam
+    url: https://steamcommunity.com/id/rahvax
 
 footer:
   since: 2026 # The starting year displayed in the copyright information (e.g., 2020-current year)

@@ -8,6 +8,14 @@ cover: images/babylon.jpg
 summary: Um artigo explicativo sobre a linguagem de programação C, que eu uso com grande frequência em minha vida.
 ---
 
+```c
+#include <stdio.h>
+int main (void) {
+  printf("Hello, World!\n");
+  return 0;
+}
+```
+
 # Linguagem C
 Mais do que nunca, hoje em dia quase todo mundo sabe o que é programar e o que é uma linguagem de programação, especialmente linguagens famosas como C. Mas o que vejo que muitas pessoas errando é em como pensam sobre cada linguagem.
 ## Motivos para usar C
