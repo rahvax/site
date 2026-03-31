@@ -3,8 +3,8 @@ author: "G. Caelestis"
 date: 2026-03-30
 lastmod: 2026-03-30
 title: Sobre o C
-banner: images/babylon.jpg
-cover: images/babylon.jpg
+banner: images/clang_banner.jpg
+cover: images/clang_icon.jpg
 summary: Um artigo explicativo sobre a linguagem de programação C, que eu uso com grande frequência em minha vida.
 ---
 
