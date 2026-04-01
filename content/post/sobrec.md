@@ -15,7 +15,6 @@ int main (void) {
   return 0;
 }
 ```
-
 # Linguagem C
 Mais do que nunca, hoje em dia quase todo mundo sabe o que é programar e o que é uma linguagem de programação, especialmente linguagens famosas como C. Mas o que vejo que muitas pessoas errando é em como pensam sobre cada linguagem.
 ## Motivos para usar C
