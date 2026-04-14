@@ -8,7 +8,7 @@ cover: images/nasa1.png
 summary: Pequeno desabafo sobre a missão Artemis II em relação das pessoas
 ---
 
-# Desabafo - Parte 01
+# Desabafo
 Bem, acho que desde criança eu sempre ouvi e vi filmes sobre o lançamento do homem para a Lua e sempre achei incrível o sentimento que isso deveria ter causado na época. Pense, ver o ser humano indo para a Lua em grandes foguetes e desbravando a fronteira do espaço é algo incrível!, certo?! Infelizmente, não para todos.
 
 Estava aleatoriamente navegando na internet ontem na madrugada, quando de repente me deparo com uma live da NASA dizendo sobre lançamento com destino à Lua — fiquei em um estado de **“como assim? Isso é histórico!”**. Então fui investigar se era uma piada de primeiro de abril, e felizmente, não era! Ali estava um dos eventos que meu eu criança sempre sonhou em ver, eu estou vivo para ver o sentimento de ver o homem saindo da Terra em direção à Lua como foi lá atrás. Só que algo estava errado, porque parecia que ninguém sabia sobre isso? Será que minha bolha não era tão informada sobre?
@@ -24,6 +24,3 @@ Já pararam para refletir o quanto a ciência sempre é colocada como vilã? O q
 Claro, isso é uma reflexão incompleta e sem um final agora. Mas ainda assim, é bizarro que eu tenha visto o que eu já sabia: nem todo mundo quer ver uma conquista humana, muitas vezes só ir ver mais um dia é tudo que precisam! E então, finalizando o meu dia, vi no céu os destroços brilhando como estrelas dando uma volta na Terra, logo após, o brilho da nave orbitando os céus como uma estrela. Era tão lindo! Era tão incrível! Mas novamente as pessoas apenas me olhavam, admirando o céu como um louco.
 
 Talvez haja momentos na vida em que devemos apenas curtir o momento, nós mesmos, e ignorar se todo mundo valoriza aquilo. Sem uma reflexão, sem um roteiro — apenas um pensamento.
-
-# Desabafo - Parte 02
-Volto quando houver um pensamento melhor formado sobre isso.
