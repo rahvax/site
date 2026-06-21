@@ -3,3 +3,4 @@ O modelo que eu usei é o (Reimu)[github.com/D-Sketon/hugo-theme-reimu]. O site 
 
 ## Observações
 Não sou desenvolvedor FullStack e nem Front-End, tão pouco, entendo alguma coisa de layout. Mau lembro como usa HTML/CSS, então é se quiser abrir issues ou importar dicas eu aceito!
+
