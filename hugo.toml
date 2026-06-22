@@ -1,7 +1,3 @@
-baseURL = "http://www.caelestis.one/"
-languageCode = "pt-br"
-title = "Gabriel Caelestis"
-
 theme = "ananke"
 
 [menu]
