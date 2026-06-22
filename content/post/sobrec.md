@@ -1,11 +1,16 @@
 ---
 author: "G. Caelestis"
 date: 2026-03-30
-lastmod: 2026-03-30
 title: Sobre o C
+
+lastmod: 2026-03-30
 banner: images/clang_banner.jpg
 cover: images/clang_icon.jpg
 summary: Um artigo explicativo sobre a linguagem de programação C, que eu uso com grande frequência em minha vida.
+
+tags: [programação, clang, artigo]
+featured_image: "images/clang_banner.jpg"
+description: "Descrição sobre a linguagem C"
 ---
 
 ```c

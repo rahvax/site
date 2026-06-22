@@ -1,11 +1,16 @@
 ---
 author: "G. Caelestis"
 date: 2026-04-01
-lastmod: 2026-04-01
 title: Lançamento Artemis II
+
+lastmod: 2026-04-01
 banner: images/nasa2.png
 cover: images/nasa1.png
 summary: Pequeno desabafo sobre a missão Artemis II em relação das pessoas
+
+tags: [desabafo, diario]
+featured_image: "images/nasa2.png"
+description: "Um pequeno desabafo sobre a missão Artemis II em relação das pessoas"
 ---
 
 # Desabafo
