@@ -1,5 +1,5 @@
 # Site - Hugo
-O site não é muito profissional ou grande coisas, pois ainda estou aprendendo a usar o Hugo. Futuramente ele vai ficando melhor até ter um modelo próprio meu.
+O site não é muito profissional ou grande coisas, pois ainda estou aprendendo a usar o Hugo. Futuramente ele vai ficando melhor até ter um modelo próprio meu. Por enquanto, isso é apenas um blog aleatório meu para usar o domínio e também garantir que eu possa postar coisas que eu gosto.
 
 # Observações
 ## Aviso 1
