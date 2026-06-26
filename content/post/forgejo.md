@@ -21,6 +21,7 @@ Para que a gente possa postar então códigos exemplares de qualidade, mas sem p
 E tenho que dizer, a experiência foi maravilhosa! O Forgejo não só substituiu para os meus casos de usos, mas como também fez melhor em muitos outros. Uma das vantagens que mais me agradou foi que que em issues há recursos como contador de tempo de trabalho, datas de prazos e suporte ao `Org-Mode` (usuários de Emacs e suas coisas).
 
 ### Vantagens que acho
+- Sistemas de tags bem mais prático e bonito;
 - É self-hosted e soberano;
 - UI bonita e agradável;
 - Leve para caramba tanto hospedado quanto em acesso;
