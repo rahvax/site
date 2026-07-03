@@ -29,7 +29,8 @@ Estou me desenvolvendo em:
 - Inteligência Artificial;
 
 ## Contato
-E-mail pessoal: gabriel@caelestis.one
-E-mail para auditoria: offsec@caelestis.one
-Github: [/rahvax](https://github.com/rahvax)
-Twitter: [@rahvax](https://x.com/rahvax)
+- E-mail pessoal: gabriel@caelestis.one 
+- E-mail para auditoria: offsec@caelestis.one
+- Github: [/rahvax](https://github.com/rahvax)
+- Twitter: [@rahvax](https://x.com/rahvax)
+
