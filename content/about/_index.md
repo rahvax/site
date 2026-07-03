@@ -1,20 +1,35 @@
 ---
 author: Gabriel Caelestis
-date: 2026-04-01
+date: 2026-07-03
 ---
-# Apresentação <sup> 𒉎𒈬</sup>
-Prazer, me chamo Gabriel Caelestis! Sou um desenvolvedor apaixonado por C e que está com essa linguagem desde os 13 anos. Também sou pesquisador e atuo profissionalmente em freelances de segurança ofensiva, sendo uma das áreas de maior interesse que possuo experiência - onde também estou atualmente buscando ingressar no mercado de inteligência artificial, me especializando no mesmo. Além de entusiasta em tecnologia, também amo história, astronomia e física; sendo áreas que planejo me aprofundar por interesse próprio.
-## Capacidades <sup> 𒉆𒆬𒍪</sup>
-- Desenvolvimento embarcado `(C)` e de softwares funcionais `(C++)`;
-- Teste de intrusão em ambientes corporativos;
-- `SQL` e uso de `PostgreSQL`, `MongoDB`, `Prisma.io` e `MariaDB`;
-- Uso e **hardening** em sistemas `Unix/Linux`;
-- Desenvolvimento e treinamento de redes neurais (`Python`);
-## Interesses <sup> 𒊕𒆗 </sup>
-- Sumério Clássico e cuneiforme (aprendendo);
-- Blockchain (pendente);
-- Segurança Ofensiva (profissional);
-- C-ANSI (me especializando);
-- Python (me aprofundando);
-- Física e astrofísica (aprendendo);
-- Astronomia (hobby);
+## Apresentação
+Prazer, me chamo Gabriel Caelestis! Sou um entusiasta em tecnologia e ciência, e com grande foco em Segurança Ofensiva. Sou programador por hobby com a linguagem `C` e busco entrar na área de `AI Engineer` para desenvolver modelos próprios. Tenho 24 anos e estou nessa jornada desde os 13 anos com experiência em testes de intrusão em ambientes corporativos.
+
+Meus interesses são:
+- Astronomia e astrofísica;
+- Inteligência Artificial;
+- Segurança Ofensiva;
+- História suméria;
+- Alfabeto cuneiforme e o dialeto Emegir sumério;
+- Piano;
+- Engenharia Mecânica;
+
+Tenho experiência em:
+- Sistemas Linux (minha toca);
+- Testes de Intrusão (Pentest);
+- Desenvolvimento de redes neurais pequenas;
+- Desenvolvimento de softwares corporativos (C++/C#);
+- Administração de sistemas Linux e hardening;
+
+Estou me desenvolvendo em:
+- Blockchain;
+- Engenharia mecânica;
+- Desenvolvimento embarcado (C);
+- Circuitos lógicos;
+- Inteligência Artificial;
+
+## Contato
+E-mail pessoal: gabriel@caelestis.one
+E-mail para auditoria: offsec@caelestis.one
+Github: [/rahvax](https://github.com/rahvax)
+Twitter: [@rahvax](https://x.com/rahvax)
