@@ -22,19 +22,17 @@ E tenho que dizer, a experiência foi maravilhosa! O Forgejo não só substituiu
 
 ### Vantagens que acho
 - Sistemas de tags bem mais prático e bonito;
-- É self-hosted e soberano;
 - UI bonita e agradável;
 - Leve para caramba tanto hospedado quanto em acesso;
 - Push Mirror para manter os repositórios do Github atualizado;
 - Migrações e espelhamento com o Github;
 - Organização de equipes em grupos;
-- Issues com recursos de tempo, data e fixagem;
-- Suporte Org-Mode;
-- Controle de dados e privacidade muito bom.
+- Issues com recursos de tempo, data, fixagem e outros fluxos;
+- Suporte Org-Mode melhor;
+- Sistemas de marcos e `TO DO` bem melhores;
 ### Desvantagens que tive
 - Não dá para criar sub-issues diretamente, é necessário `TO DO` em uma principal ou menções;
 - Não tem o `readme.md` especial no perfil, o que eu considerava maneiro;
-- Não tem o "discussões" do Github.
 ## Mostrando
 - A página de um repositório:
 ![imagem do Forgejo](/images/f1.png)
