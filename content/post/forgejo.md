@@ -3,7 +3,7 @@ author: "G. Caelestis"
 date: 2026-06-22
 title: O ”meu Github”
 
-lastmod: 2026-06-22
+lastmod: 2026-07-14
 banner: images/forgejo.webp
 cover: images/forgejo.webp
 summary: A minha experiência migrando para o Forgejo.
