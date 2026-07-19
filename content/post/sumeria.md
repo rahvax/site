@@ -8,7 +8,7 @@ cover: images/sumerian_intro.jpg
 summary: uma pesquena apresentação de uma civilização tão incrível que me apaixonei.
 
 tags: [história, suméria, hobby]
-featured_image: "images/sumerian_intro.jpg"
+featured_image: "images/babylon_city.jpg"
 description: "breve apresentação de um lugar tão histórico"
 ---
 # A Suméria
