@@ -5,7 +5,7 @@ title: A Suméria
 
 banner: images/sumerian_intro.jpg
 cover: images/sumerian_intro.jpg
-summary: uma pesquena apresentação de uma civilização tão incrível que me apaixonei.
+summary: Uma pesquena apresentação de uma civilização tão incrível que me apaixonei.
 
 tags: [história, suméria, hobby]
 featured_image: "images/babylon_city.jpg"
