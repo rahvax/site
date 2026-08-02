@@ -1,11 +1,12 @@
 ---
 author: Gabriel Caelestis
-date: 2026-04-01
+date: 2026-07-03
 ---
 ## Apresentação
-Prazer, me chamo Gabriel Caelestis! Sou um entusiasta em tecnologia e ciência, e com grande foco em Segurança Ofensiva. Sou programador por hobby com a linguagem `C` e busco entrar na área de `AI Engineer` para desenvolver modelos próprios. Tenho 24 anos e estou nessa jornada desde os 13 anos com experiência em testes de intrusão em ambientes corporativos.
+Prazer, me chamo Gabriel Caelestis! Sou um entusiasta em tecnologia e ciência, e com grande foco em Segurança Ofensiva. Sou programador com a linguagem `C` e busco entrar na área de `AI Engineer` para desenvolver modelos próprios. Sou um cara extremamente curioso e com gostos diversos.
 
 Meus interesses são:
+- Desenvolvimento embarcado;
 - Astronomia e astrofísica;
 - Inteligência Artificial;
 - Segurança Ofensiva;
@@ -22,10 +23,7 @@ Tenho experiência em:
 - Administração de sistemas Linux e hardening;
 
 Estou me desenvolvendo em:
-- Blockchain;
 - Engenharia mecânica;
-- Desenvolvimento embarcado (C);
-- Circuitos lógicos;
 - Inteligência Artificial;
 
 ## Contato
@@ -33,4 +31,3 @@ Estou me desenvolvendo em:
 - E-mail para auditoria: offsec@caelestis.one
 - Github: [/rahvax](https://github.com/rahvax)
 - Twitter: [@rahvax](https://x.com/rahvax)
-
