@@ -1,3 +1,18 @@
+---
+author: "G. Caelestis"
+date: 2026-08-05
+title: Sobre o Emacs
+
+lastmod: 2026-07-03
+banner: images/emacs1.png
+cover: images/emacs1.png
+summary: Explicação sobre o editor que uso sempre e amo.
+
+tags: [programação, editor, emacs, diário]
+featured_image: "images/emacs1.png"
+description: "Descrição sobre meu editor preferido"
+---
+
 # Emacs
 
 ## Apresentação
