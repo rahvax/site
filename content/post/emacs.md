@@ -13,8 +13,6 @@ featured_image: "images/emacs1.png"
 description: "Descrição sobre meu editor preferido"
 ---
 
-# Emacs
-
 ## Apresentação
 O Emacs é um editor de texto, falando de uma forma resumida. Mas, no final das contas, ele é uma agenda, um caderno, uma IDE complexa, um gerenciador de Git, um provedor de e-mail, entre outros. O maior diferencial do Emacs é simplesmente ser um editor capaz de ser extremamente flexível.
 
@@ -40,13 +38,13 @@ A minha configuração é simples e utiliza integração das teclas e comandos d
 
 Mas fiz minha configuração e moldei pensando em ser portátil para iniciantes e ser utilizada como experimento por outras pessoas, apesar de elas também terem como opção utilizar o DoomEmacs como opção já feita pensando em não necessitar de configurações extensas. Minha configuração pode ser acessada diretamente pelo GitHub, com o DoomEmacs.  
 
-- [Minha Configuração]()
-- [DoomEmacs]()
+- [Minha Configuração](https://github.com/rahvax/emacs)
+- [DoomEmacs](https://github.com/doomemacs/core)
 
 ## Meu primeiro projeto
 Meu primeiro projeto em Emacs foi uma necessidade de ser preguiçoso, como o nome sugere; para criar diretórios já definidos para projetos em C. Assim, economizei o tempo de sempre criar tudo e me dei a experiência de criar um projeto em Elisp ao invés de só utilizar modelos do Projectile.  
 
-- [SlackC.el]()
+- [SlackC.el](https://github.com/rahvax/Slack-C.el)
 
 ## Conclusão
 É difícil falar sobre o Emacs por sua complexidade, mas fico feliz em apresentar um editor tão importante para mim hoje em dia - que é muito desconhecido na grande bolha geral da tecnologia - e estar dando os primeiros passos para começar a fazer parte da comunidade desse editor.
