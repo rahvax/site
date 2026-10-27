@@ -1,7 +1,7 @@
 +++
 title = "Minha Rainha"
 date = 2026-10-27
-draft = true
+draft = false
 layout = "aniversario"
 featured_image = "images/foto.jpg"
 [params]
